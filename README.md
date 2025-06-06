@@ -1,12 +1,11 @@
-# React + Vite
+JarvisAI is an advanced, interactive AI assistant web application inspired by the iconic Jarvis from the Iron Man universe. Built with React and Vite, JarvisAI leverages modern web technologies to deliver a seamless, responsive, and visually engaging user experience. The project features real-time voice interaction, natural language processing, and dynamic responses, making it a powerful tool for productivity, information retrieval, and entertainment.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Key Features:
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1.Voice recognition and speech synthesis for hands-free interaction
+2.Intuitive and modern UI with animated AI avatars and visual feedback
+3.Context-aware responses powered by advanced AI models
+4.Modular and scalable codebase for easy customization and extension
+5.User context management for personalized experiences
+6.Fast development workflow using Vite and hot module replacement
+7.JarvisAI is perfect for developers, tech enthusiasts, and anyone interested in building or exploring AI-powered web applications. The project is open-source and encourages contributions, making it an excellent starting point for learning about AI integration, React development, and modern frontend tooling.
